@@ -31,7 +31,7 @@ terms mentioned in the agreement.
 
 ## Summary of the Project
 
-```bash
+
 1. The Member riders make up 60% and casual riders make of 40% of the total riders. Summer-Spring months from May to September the ridership is at its peak with July being the month with the most ridership by member and casual riders. Autumn - Winter months have the lowest ridership, majority of which is by the member riders.
 
 2. During the weekdays members make 64% and casual riders make 36% of the ridership. On weekends the ridership of both casuals and member riders is quite equal making 50% each on Saturdays and Sundays, Saturday being the  day with ridership at its peak.
@@ -52,31 +52,12 @@ be explained by the rides' aims. Both casual riders and members appear to utilis
 which may explain why we see similar ridership by members and casual riders on weekends. Summer months have an 
 overabundance of casual bikers. Members appear to utilise bikes for work purposes more frequently, which explains their 
 high activity during the weekdays and throughout the autumn-winter months.
-```
-## Screenshots
-
-
-![App Screenshot](![image](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/56661680-4406-43dc-8fd5-82f6044e2eb6))
-
-
-![App Screenshot](![3](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/1bef14d9-90ec-400d-a623-ce5d2df8a225))
-
-
-![App Screenshot](![5](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/9d640e32-141b-4de6-88fe-d1db88b11d3c)
-)
-
-![App Screenshot](![6](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/7b5cc2fe-b364-4160-95b8-b426fa158e24)
-)
-
-
-![App Screenshot](![image](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/edd9cb3a-9eab-48b9-9c21-bea3b6f8bc2c)
-)
 
 
 
 ## The phases of the data analysis lifecycle (Roadmap)
 
-```bash
+
 1. ASK
    
     Key tasks:
@@ -130,6 +111,8 @@ high activity during the weekdays and throughout the autumn-winter months.
 
     CLEAN AND TRANSFORM DATA
 
+![image](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/8d555c78-bb6a-40a1-a92c-ff57317e61ec)
+
 4. ANALYZE
 
     Key tasks
@@ -154,19 +137,26 @@ high activity during the weekdays and throughout the autumn-winter months.
     -  Abnormalities in docked_bike average and max ride time   
     - Most common ride start time
 
+![image](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/35734b8f-43a3-48d7-9319-e34bc81827eb)
+
+![image](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/d88f00cc-b252-4025-a118-4bf2d8c12146)
+
+![image](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/01d06e37-362d-49e0-b30f-0a9bca9e2547)
+
+
+![image](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/35883774-1a44-4ae5-8209-94eda33e3e26)
+
+
 5. SHARE AND ACT
 
 The objectives of the analysis discussed above are to inform the stakeholders of the insights and results and to provide advice 
 for the business that can assist in accomplishing the assignment that Moreno has given : How are Cyclistic bikes used 
-differently by yearly members and casual riders?
+differently by yearly members and casual riders? All the data gathered through analysis with Spreadsheet, Power Query, and Tableau is visualised in the Document.
 
-All the data gathered through analysis with Spreadsheet, Power Query, and Tableau is visualised in the Document.
+   SUMMARY OF THE PROJECT
 
-    SUMMARY OF THE PROJECT
+   RECOMENDATION FOR THE BUSINESS
 
-    RECOMENDATION FOR THE BUSINESS
-
-```
 
     
 
