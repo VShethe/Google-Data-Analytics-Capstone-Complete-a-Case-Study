@@ -1,12 +1,11 @@
 
-# CASE STUDY: CYCLISTIC BIKE-SHARE ANALYS
+# CASE STUDY: CYCLISTIC BIKE-SHARE ANALYS        ![Screenshot 2023-07-05 191359](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/ee96a5e1-650c-4acd-a93f-d71f95d4b740)
 
 In this case study, I will perform many real-world tasks of a junior data analyst. I will work for a fictional 
 company, Cyclistic, and meet different characters and team members. The data is taken from a real 
 company DIVVY Bicycle sharing system which is a proxy for Cyclistic Data.
 
-![Logo](![Screenshot 2023-07-05 191359](https://github.com/VShethe/Google-Data-Analytics-Capstone-Complete-a-Case-Study/assets/128286364/ee96a5e1-650c-4acd-a93f-d71f95d4b740)
-)
+
 
 
 ## 🛠 Skills
